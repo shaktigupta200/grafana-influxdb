@@ -19,4 +19,9 @@ Setup Grafana and influxdb
 
 ########### Installing Telegraf(collector) ############## <br/>
 <i>Install using rpm</i>
-&nbsp;<a href="https://repos.influxdata.com/centos/7Server/amd64/stable/">https://repos.influxdata.com/centos/7Server/amd64/stable/ (Influx and telegraf Rpm repo)</a>
+&nbsp;<a href="https://repos.influxdata.com/centos/7Server/amd64/stable/">https://repos.influxdata.com/centos/7Server/amd64/stable/ (Influx and telegraf Rpm repo)</a><br/>
+
+
+<i>Install using debian</i>
+1> wget https://dl.influxdata.com/telegraf/releases/telegraf_1.0.0_amd64.deb
+2> sudo dpkg -i telegraf_1.0.0_amd64.deb
