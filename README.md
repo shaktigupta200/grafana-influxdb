@@ -1,7 +1,7 @@
 # grafana-influxdb
 Contains steps and configuration to setup Grafana Stack for Production Monitoring
 
-
+<img src="tig-monitor-logic.png" height="300px" width="600px" />
 Setup Grafana and influxdb
 
 
